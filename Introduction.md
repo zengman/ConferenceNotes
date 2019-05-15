@@ -63,3 +63,17 @@
 > SUNY Binghamton 美国纽约州内排名最高的大学
 1. 一些web services中重复内容，headers多，small payload
 2. 在保证运营商和用户的利益下，提出新的在边缘节点的专为单个用户提供不同服务的方法。并研究了部署。。。
+
+## 2019.5.15
+#### 9. Adaptive VNF Scaling and Flow Routing with Proactive Demand Prediction
+>infocomm 2018
+>作者:
+>华中科技大学(Xincai Fei, Fangming Liu)
+>NetX Lab 香港(Hong Xu)
+
+#### 10. Quality of Experience-based Routing of Video Traffic for Overlay and ISP Networks
+TODO !!!
+>infocomm 2018
+>作者:
+>Universite Cote d’Azur(蔚蓝海岸大学) (Giacomo Calvigioni, Ramon Aparicio-Pardo, Lucile Sassatelli)
+>华为法国研究所(Jeremie Leguay, Paolo Medagliani, Stefano Paris)
