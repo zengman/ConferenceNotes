@@ -71,9 +71,30 @@
 >华中科技大学(Xincai Fei, Fangming Liu)
 >NetX Lab 香港(Hong Xu)
 
+## 2019.5.20
 #### 10. Quality of Experience-based Routing of Video Traffic for Overlay and ISP Networks
-TODO !!!
+
 >infocomm 2018
 >作者:
 >Universite Cote d’Azur(蔚蓝海岸大学) (Giacomo Calvigioni, Ramon Aparicio-Pardo, Lucile Sassatelli)
 >华为法国研究所(Jeremie Leguay, Paolo Medagliani, Stefano Paris)
+
+#### 11. Towards Stability Analysis of Data Transport Mechanisms: aFluid Model and an Application
+>infocomm 2018
+>作者：
+>University of Massachusetts, Amherst(Gayane Vardoyan, C.V. Hollot, Don Towsley)
+
+#### 12. PoiRoot: investigating the root cause of interdomain path changes
+>sigcom 2013
+>作者：
+![](2019-05-20-21-45-24.png)
+TODO
+
+## 2019.6.2
+#### 1. BGP Communities: Even more Worms in the Routing Can
+![](2019-06-02-22-26-20.png)
+快捷方式是：control + command + v 粘贴图片
+
+
+
+
