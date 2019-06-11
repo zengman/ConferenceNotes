@@ -120,7 +120,44 @@ Monsieur Poirot -detect other botnets
 
 #### 2. Modeling Malware as a Language
 malware: 恶意软件
+恶意软件的检测， modeling malware as a language for the purpose of performing such semantic-based analysis
+>作者
+![](2019-06-11-16-28-55.png)
 
+#### 3. A Dynamic Rate Adaptation Scheme for M2M Communications
+M2M: machine-to-machine, IoT tech.
+![](2019-06-11-16-42-03.png)
+>作者
+![](2019-06-11-16-59-29.png)
+备注：没有过多了解
 
+#### 4. Assessing Coverage and Throughput for D2D Communication
+D2D: device to device, 不经过中间网络，直接通信，用途广泛，比如车与车之间，碰撞，距离等
 
+提出了一个测量D2D coverage probability and average throughput 以及其他参数性能的 framework
+why do this measurement?
+> 句子：our contributions are three-fold
+
+D2D通信指的是UE 不经过基站直接通信，M2M不仅包括UE还包括各种Machine之间的通信
+
+> D2D refers to mobile devices like smart phones directly communicating with each other. M2M is a rather more generic term used for variety of device communicating with each other or through a network.
+M2M refers to a communication paradigm that enable machines (objects) to communicate with each other with little or no human interaction
+> 作者：
+![](2019-06-11-21-02-27.png)
+
+#### 5. An Optimized and Secure Authentication Scheme for Vehicular Ad Hoc Networks
+Vehicular Ad Hoc Networks(VANETs)
+验证方面，可读可不读
+>author:
+![](2019-06-11-21-18-39.png)
+
+#### 6. Who Am I? Personality Detection Based on Deep Learning for Texts.
+论文主题很有趣，作为趣闻来读
+提出the structure of the texts online 对于性格的推测也很重要
+
+#### 7. Urban Traffic Bottleneck Identification Based on Congestion Propagation
+交通traffic， 定义了uraban traffic bottleneck， most significance(road segments that will lead more congestion cost in urban area, 然后提出了identification method)
+Introduction 写得好
+>author:
+![](2019-06-11-21-51-26.png)
 
