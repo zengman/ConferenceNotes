@@ -107,6 +107,20 @@ icc-2018
 #### 1. Enhanced Session Table Architecture for Stateful Firewalls
 stateful firewalls:提供数据包状态检查的防火墙
 
-#### 2. 
+## 2019.6.11
+icc-2018
+#### 1. Monsieur Poirot: Detecting Botnets Using Re-Identification Algorithm and Nontrivial Feature Selection Technique
+botnets: 主机网络， a botnet is a group of compromised hosts(bots) that are remotely commanded by an attacker through a command and control channel.
+problem: modern botnets are migrating to P2P network
+>作者
+![](2019-06-11-10-13-59.png)
+
+通过network flow 检测botnets， 特征分析，detect malicious traffic
+Monsieur Poirot -detect other botnets
+
+#### 2. Modeling Malware as a Language
+malware: 恶意软件
+
+
 
 
