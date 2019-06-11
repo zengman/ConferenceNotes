@@ -95,6 +95,18 @@ TODO
 ![](2019-06-02-22-26-20.png)
 快捷方式是：control + command + v 粘贴图片
 
+## 2019.6.5
+icc-2018
+#### 1. Prompt Lightweight VPN Session Resumption for Rapid Client Mobility and MTD Enablement for VPN Servers
+resumption 恢复
 
+#### 2. eyeDNS: Monitoring a University Campus Network
+
+## 2019.6.10
+icc-2018
+#### 1. Enhanced Session Table Architecture for Stateful Firewalls
+stateful firewalls:提供数据包状态检查的防火墙
+
+#### 2. 
 
 
