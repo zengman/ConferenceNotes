@@ -161,3 +161,82 @@ Introduction 写得好
 >author:
 ![](2019-06-11-21-51-26.png)
 
+## 2019.6.12
+
+#### 1. OPIU: Opinion Propagation in Online Social Networks Using Influential Users Impact
+opinion propagation 分为两个重要factor, the influential users' effect and the neighbors' effect. 创建了一个新的模型来评价
+
+很有意思的论文，没有太细看，online social network
+>authors:
+![](2019-06-12-09-17-01.png)
+
+#### 2. A Data-Deduplication-Based Matching Mechanism for URL Filtering
+关于URL filtering的算法大多是通过提升multiple matching来speed up，但是本文发现url中存在大量的重复URL，且比列高，随着URL数量增长，比例增长更大。所以基于hash tech. 来去重，以此speed up th filtering。
+但是存在一些问题，一个是caching，一个是hash算法会有小概率的冲突率。
+>authors:
+![](2019-06-12-09-42-18.png)
+
+#### 3. On the Secure Degrees of Freedom of 2 × 2 × 2 Multi-Hop Network with Untrusted Relays
+Degrees of freedom(DoF): 自由度，以样本的统计量来估计总体的参数，样本中独立或能自由变化的数据个数
+方差，样本减平均值得平方之和(一个由样本决定的衍生量)，对N个随机样本而言，其自由度为N-1
+a + b = 6, 自由度为1， 只有a才能真正自由变换，b会被a选值得不同限制。
+
+multi-hop MIMO relay networks with untrusted relays and confidential messages.
+>authors:
+![](2019-06-12-10-28-28.png)
+
+#### 4. Sentinel: Defense Mechanism against DDoS Flooding Attack in Software Defined Vehicular Network
+a new defense mechanism to detect flooding attack by time series analysis of packet flow and mitigate the attack creating a flow tree to find out the source of spoofed packets. 
+
+结合SDN 与 Vehicle Ad Hoc Network（VANET）
+
+>authors:
+![](2019-06-12-10-41-36.png)
+
+#### 5. Is DNS Ready for Ubiquitous Internet of Things?
+ieee access-2019
+主要是分析，没有看懂具体内容
+>authors:
+![](2019-06-12-14-24-41.png)
+
+#### 6. An Energy-Efficient Location Prediction-Based Forwarding Scheme for Opportunistic Networks
+
+Opportunistic Networks: OppNets, unstable topology, intermittent connectivity, and no guarantee of the existence of an end-to-end path. 不稳定的网络，节点移动，随机组成Ad hoc 网络。
+在这样的网络中，源节点到目的节点的数据传输is a challenge
+
+考虑了节点的剩余能量和基于传输可能性的location信息
+比目前的很多种方法在节点剩余能量，dead nodes的个数，message delivery probability，average latency上效果更好。
+
+>authors:
+![](2019-06-12-14-44-36.png)
+
+#### 7. Name-Based Routing with On-Path Name Lookup in Information-Centric Network.
+ICN：将内容与终端位置剥离，通过发布/订阅来提供存储和多方通信等服务。
+综合分布式和集中式的name announcement and name look up，设计了一种新的方式，是的通信开销小，存储效率高
+
+不太明白下面图的意思：
+![](2019-06-12-15-48-56.png)
+>authors:
+![](2019-06-12-15-26-39.png)
+
+#### 8. Online Revenue Maximization in NFV-Enabled SDNs
+常规文章，有一定价值，没有细看
+dynamic admissions of delay-aware NFV-enabled requests in SDNs
+几个challenges: max revenues by admitting as many requests as possible; meet diverse resource demands and delay requirements; find rouing paths.....
+>authors:
+![](2019-06-12-16-16-41.png)
+
+#### 9. KORA: A Framework for Dynamic Consolidation & Relocation of Control Units in Virtualized 5G RAN
+资源管理，分配
+>authors:
+![](2019-06-12-17-07-56.png)
+
+#### 10.Distributed Placement and Online Optimization of Virtual Machines for Network Service Chains.
+decentralized approach to reduce the time-average cost of NFV and the queue length.
+>authors:
+![](2019-06-12-19-10-41.png)
+
+#### 11.Throughput Maximization of Delay-Sensitive Request Admissions via Virtualized Network Function Placements and Migrations
+NFV, horizontal scaling by migrating existing VNF instances from their current locations to new locations; and (ii) vertical scaling by instantiating more VNF instances
+>authors:
+![](2019-06-12-19-46-36.png)
