@@ -240,3 +240,57 @@ decentralized approach to reduce the time-average cost of NFV and the queue leng
 NFV, horizontal scaling by migrating existing VNF instances from their current locations to new locations; and (ii) vertical scaling by instantiating more VNF instances
 >authors:
 ![](2019-06-12-19-46-36.png)
+
+## 2019.6.13
+
+#### 1. A Learning-Based Approach towards Localization of Crowdsourced Motion-Data for Indoor Localization Applications
+不太感兴趣，室内定位，基于指纹？？？
+>authors:
+![](2019-06-13-09-35-19.png)
+
+#### 2. Optimal Joint Subcarrier and Power Allocation in NOMA is Strongly NP-Hard
+NOMA：non-orthogonal multiple access, a radio access tehc for 5G;
+SIC: successive interference cancellation;
+目前已有很多关于优化系统utility functions的算法，文章提到了很多列子，这些防范提出了启发式schemes来解决各种复杂的joint subcarrier和power allocation problems in NOMA, 为了更好了解这些问题在实际系统中是如何解决的，需要研究这些不同objective functions的复杂度
+>authors:
+![](2019-06-13-09-47-59.png)
+
+#### 3. Dynamic Resource Allocation for Uplink MIMO NOMA VWN with Imperfect SIC
+关于resource allocation， 介绍了很多这方面的其他算法和方法。
+>authors:
+![](2019-06-13-10-34-38.png)
+
+#### 4. Efficient Multipath Routing Protocol with Quality of Service for Mobile Adhoc Networks
+routing protocol，介绍了很多概念，routing protocol分类，优缺点，
+比较了提出的方法优于其他方法。
+不是特别好的论文？？？
+>authors:
+![](2019-06-13-11-06-08.png)
+
+#### 5. Market-Based Incentive Mechanism Design for Crowdsourcing
+对基本概念，crodwsourcing 不是很懂， auction？
+大多研究都focus在allocate sensing tasks to participants来最大化social welfare，但是没有人考虑coverage holes。
+>authors:
+![](2019-06-13-11-30-47.png)
+
+#### 6. Link Stability Based Hybrid Routing Protocol For Software Defined Vehicular Networks
+SDVN能提供VANET中的全局视野，因为节点连接不稳定，拓扑经常变化，通过结合SDN的优点，能在global view中得到链路信息，选择短，稳定的链路来传输数据, lack of global network information ：
+a hybrid routing protocol for SDVN which focues on delivering a given number of packets in the network via multiple stable routes efficiently.
+
+>authors:
+![](2019-06-13-11-45-58.png)
+
+#### 7. LDplayer: DNS Experimentation at Scale
+imc-2018
+DNS 已经发展很多年，但是目前由于大量的应用问题，进展延缓了
+这些变化很难建模，提出LDplayer，enables DNS experiments to scale in server dimnetsions
+>authors:
+![](2019-06-13-14-43-58.png)
+
+#### 8. Game-Theoretic Approach to Malicious Controller Detection in Software Defined Networks
+传统，分布式sdn控制器上检测恶意行为的范式是每一个交换机想多个控制器check for forwarding rule consistentcy，但是这样使得控制器负载重
+
+本文提出：将该安全问题model as a Stackelberg game, 优于其他三种方法。
+Stackelberg game: 产量领导模型？？
+>authors:
+![](2019-06-13-15-38-43.png)
