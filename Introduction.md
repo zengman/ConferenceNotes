@@ -294,3 +294,30 @@ DNS 已经发展很多年，但是目前由于大量的应用问题，进展延�
 Stackelberg game: 产量领导模型？？
 >authors:
 ![](2019-06-13-15-38-43.png)
+
+## 2019.6.14
+
+#### 1. On low-latency-capable topologies, and their impact on thedesign of intra-domain routing
+sigcomm-2018
+考虑了网络topo对拥塞，时延的影响
+>authors:
+![](2019-06-14-09-38-27.png)
+
+#### 2. The QUIC Transport Protocol: Design and Internet-Scale Deployment
+介绍了QUIC，why，performance，deployment
+
+>authors:
+![](2019-06-14-10-26-27.png)
+
+#### 3. Bootstrapping evolvability for inter-domain routing with D-BGP
+现有的BGP协议非常严格，不利于引入新的域间路由协议，其修复也很困难，很难提供相关的增值服务。及时替换BGP，下一个协议也很难改变和发展。所以本文提出了两个在routing infrastructure的特性，to facilitate evolution to new protocols. D-BGP用来更好的理解它们的utility
+
+——————值得细看
+>authors
+![](2019-06-14-10-50-25.png)
+
+#### 4. The Impact of Router Outages on the AS-level Internet
+研究internet outages的影响，调查了149，560个router 2.5年
+network resilience
+>authors:
+![](2019-06-14-16-54-33.png)
