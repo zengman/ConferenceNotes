@@ -1,0 +1,21 @@
+Provider: Schloss Dagstuhl - Leibniz Center for Informatics
+Provider: University of Trier
+Database: dblp computer science bibliography
+Content:text/plain; charset="utf-8"
+
+TY  - CPAPER
+ID  - DBLP:conf/icnp/LeeYSC18
+AU  - Lee, Chanhee
+AU  - Yoon, Changhoon
+AU  - Shin, Seungwon
+AU  - Cha, Sang Kil
+TI  - INDAGO: A New Framework For Detecting Malicious SDN Applications.
+BT  - 2018 IEEE 26th International Conference on Network Protocols, ICNP 2018, Cambridge, UK, September 25-27, 2018
+SP  - 220
+EP  - 230
+PY  - 2018//
+DO  - 10.1109/ICNP.2018.00031
+UR  - https://doi.org/10.1109/ICNP.2018.00031
+UR  - http://doi.ieeecomputersociety.org/10.1109/ICNP.2018.00031
+ER  -
+

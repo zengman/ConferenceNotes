@@ -1,0 +1,20 @@
+Provider: Schloss Dagstuhl - Leibniz Center for Informatics
+Provider: University of Trier
+Database: dblp computer science bibliography
+Content:text/plain; charset="utf-8"
+
+TY  - CPAPER
+ID  - DBLP:conf/icc/YuanHMY18
+AU  - Yuan, Tingting
+AU  - Huang, Xiaohong
+AU  - Ma, Maode
+AU  - Yuan, Jie
+TI  - Balance-Based SDN Controller Placement and Assignment with Minimum Weight Matching.
+BT  - 2018 IEEE International Conference on Communications, ICC 2018, Kansas City, MO, USA, May 20-24, 2018
+SP  - 1
+EP  - 6
+PY  - 2018//
+DO  - 10.1109/ICC.2018.8422637
+UR  - https://doi.org/10.1109/ICC.2018.8422637
+ER  -
+

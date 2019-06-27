@@ -1,0 +1,24 @@
+1 a, an, the 的使用
+用错，或者漏写
+2 句子过长
+and 前面多用逗号，少用which
+3 字母符号的解释如果过多的话，就采用列表的形式
+4 将一个句子的主要意思放在句首，将原因，location等问题放在后面
+将句子的意思表达地直接一点，而不是间接得表达
+5 which\that很容易造成歧义，请注意
+6 respectively 放在句末
+7 不要过多使用in this paper, 而使用 in this study
+8 句首不要使用阿拉伯数字
+9 注意空格
+10 句首字母大小写
+11 such as 后面不要接 and etc.
+12 避免重复单词的使用
+simulation results; simulation = results
+limit condition; limit = condition
+13 不要使用 by this way , 而是用by doing this, using this method
+14 how to 不能放在句首
+Determining how to do ...
+15 注意单词的单复数形式
+16 The results are shown in Figure 2
+17 不要过度使用 that is to say, namely
+18 不要在句末使用 too 

@@ -1,0 +1,21 @@
+Provider: Schloss Dagstuhl - Leibniz Center for Informatics
+Provider: University of Trier
+Database: dblp computer science bibliography
+Content:text/plain; charset="utf-8"
+
+TY  - CPAPER
+ID  - DBLP:conf/icnp/AljobyWFM18
+AU  - Aljoby, Walid A. Y.
+AU  - Wang, Xin
+AU  - Fu, Tom Z. J.
+AU  - Ma, Richard T. B.
+TI  - On SDN-Enabled Online and Dynamic Bandwidth Allocation for Stream Analytics.
+BT  - 2018 IEEE 26th International Conference on Network Protocols, ICNP 2018, Cambridge, UK, September 25-27, 2018
+SP  - 209
+EP  - 219
+PY  - 2018//
+DO  - 10.1109/ICNP.2018.00030
+UR  - https://doi.org/10.1109/ICNP.2018.00030
+UR  - http://doi.ieeecomputersociety.org/10.1109/ICNP.2018.00030
+ER  -
+
